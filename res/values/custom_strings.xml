@@ -40,16 +40,6 @@
 
     <string name="settings_reset_button">Reset</string>
 
-    <!-- Button backlight -->
-    <string name="button_backlight_title">Backlight</string>
-    <string name="button_backlight_enabled">Illuminate buttons</string>
-    <string name="button_backlight_seekbar_title">Button brightness</string>
-    <string name="backlight_timeout_title">Illumination timeout</string>
-    <string name="backlight_timeout_unlimited">Don\'t turn off</string>
-    <string name="backlight_summary_disabled">Disabled</string>
-    <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
-    <string name="backlight_summary_enabled">Enabled</string>
-
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
     <string name="display_rotation_disabled">Disabled</string>
@@ -139,5 +129,4 @@
     <string name="storage_wizard_move_confirm_body_cm">Moving <xliff:g id="app" example="Calculator">^1</xliff:g> and its data to <xliff:g id="name" example="SD card">^2</xliff:g> will take only a few moments. You won\u2019t be able to use the app until the move is complete.
 \n\nDon\u2019t remove the <xliff:g id="name" example="SD card">^2</xliff:g> during the move.<xliff:g id="forcetext">^3</xliff:g>
 </string>
-
 </resources>

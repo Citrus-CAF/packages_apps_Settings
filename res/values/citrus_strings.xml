@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 POLYOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About POLYOS -->
+    <string name="POLYOS_about_info">About Us</string>
+    <string name="POLYOS_about_info_summary">PolyOS is based on LineageOS</string>
+    <string name="dev_info">About PolyOS</string>
+    <string name="dev_info_summary">Everything about PolyOS and our Noob Team</string>
+    <string name="devs_header">Poly Team</string>
+    <string name="dev_1"> Vaisakh Murali</string>
+    <string name="dev1_description">Owner/Founder</string>
+    <string name="dev_2">ATechnoHazard</string>
+    <string name="dev2_description">Head Developer</string>
+    <string name="dev_3">Jobin</string>
+    <string name="dev3_description">Lead Developer</string>
+    <string name="dev_4">InfinixRemix</string>
+    <string name="dev4_description">Developer</string>
+    <string name="dev_5">Ravi Pingat (SeekNDstroy)</string>
+    <string name="dev5_description">Developer</string>
+
+    <!-- Social -->
+    <string name="social_header">Get Polified</string>
+    <string name="POLYOS_web">Website</string>
+    <string name="POLYOS_web_description">Our Official Website</string>
+    <string name="POLYOS_web_link">http://polify.me</string>
+    <string name="POLYOS_google_plus">Google+</string>
+    <string name="POLYOS_google_plus_description">Our official Google+ page</string>
+    <string name="POLYOS_google_plus_link">https://plus.google.com/communities/</string>
+    <string name="POLYOS_telegram">Telegram</string>
+    <string name="POLYOS_telegram_description">Join our Community</string>
+    <string name="POLYOS_telegram_link">https://t.me/joinchat/FmglX03IxK330id2FGO8gQ</string>
+    <string name="POLYOS_github">Github</string>
+    <string name="POLYOS_github_description">We are open Source!</string>
+    <string name="POLYOS_github_link">https://github.com/Poly-OS</string>
+
+    <!-- Color engine -->
+    <string name="theme_switch_palette">Switch between primary and accent colors</string>
+    <string name="theme_title">Color engine</string>
+    <string name="theme_summary">Select different colors for your current theme</string>
+    <string name="theme_accent_color">Accent color</string>
+    <string name="theme_primary_color">Primary color</string>
+    <string name="theme">Theme</string>
+    <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
+    <string name="red">Torch Red</string>
+    <string name="orange">Vermilion</string>
+    <string name="blue">Pixel Blue</string>
+    <string name="green">Lima</string>
+    <string name="yellow">Supernova</string>
+    <string name="purple">Purple Heat</string>
+    <string name="pink">Rose</string>
+    <string name="dark">Dark</string>
+    <string name="pixel">Pixel</string>
+    <string name="teal">Default</string>
+    <string name="cyan">Scooter</string>
+    <string name="grey">Grey</string>
+    <string name="default_string">Default</string>
+
+ </resources>

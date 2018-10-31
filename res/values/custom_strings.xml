@@ -338,4 +338,9 @@
     <string name="app_ops_labels_write_external_storage">Write to external storage</string>
     <string name="app_ops_labels_write_mms">Write an MMS message</string>
     <string name="app_ops_labels_write_sms">Write SMS</string>
+    
+    <!-- Navbar gestures -->
+    <string name="full_gesture_mode_title">Enable full gesture mode</string>
+    <string name="full_gesture_mode_summary">This mode will disable also the back button and you will be able to trigger a back button action by a left swipe on navbar. Right swipe will still trigger the last-app action.</string>
+
 </resources>

@@ -55,6 +55,6 @@ public class PrivacyGuardPrefs extends SettingsPreferenceFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.OWLSNEST;
+        return MetricsEvent.CUSTOM_SQUASH;
     }
 }
